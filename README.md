@@ -17,5 +17,6 @@ Proyecto web desarrollado con React JS y Material UI que permite la visualizaci�
 
 1. Clonar el repositorio.
 2. Ejecutar `npm install` para instalar todas las dependencias necesarias.
-3. Ejecutar `yarn start` para iniciar la aplicaci처n en modo desarrollo.
-4. Acceder a http://localhost:3000 en el navegador para ver la aplicaci처n.
+3.1. Ejecutar `yarn start` para iniciar la aplicaci처n en modo desarrollo, (Recomendada) || 
+3.2. Ejecutar `npm run dev` para iniciar la aplicaci처n en modo desarrollo.
+4. Acceder a http://localhost:5173 en el navegador para ver la aplicaci처n.
